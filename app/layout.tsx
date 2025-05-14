@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "회의실 방 예약 시스템",
     description: "회의실 방 예약 시스템",
-    images: ["https://bang-book.vercel.app/og.jpg"],
+    images: ["https://bang-book.vercel.app/opengraph-image.jpg"],
   },
 };
 
